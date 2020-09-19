@@ -1,0 +1,51 @@
+.body{
+    background-color: rgb(206, 206, 206);
+}
+.h4{
+    color: rebeccapurple;
+}
+
+.fa-mail-bulk{
+    color: rebeccapurple;
+    font-size: 5em  !important;
+
+}
+
+.fa-file-signature{
+    color: white;
+    font-size: 5em  !important;
+}
+
+.fa-cog{
+    color: rebeccapurple;
+    font-size: 1.4em  !important;
+}
+
+.fa-user-circle{
+    color: rebeccapurple;
+    font-size: 1.4em  !important;
+    
+
+}
+
+.col-ms-4{
+    
+  
+    background-color: rgb(207, 179, 207);
+}
+
+.fa-ellipsis-h{
+    font-size: 3em  !important;
+color: rebeccapurple;
+position: relative;
+    left: 500px;
+}
+
+
+.fa-quote-right{
+    position: relative;
+    left: 500px;
+    font-size: 3em  !important;
+    color: rebeccapurple;
+}
+
